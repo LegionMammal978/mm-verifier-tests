@@ -1,0 +1,2 @@
+$( should error $)
+$[ empty.mm$]
