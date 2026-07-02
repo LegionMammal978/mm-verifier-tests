@@ -1,2 +1,3 @@
 $( should error $)
-.1 $e $= $.
+$c wff $.
+.1 $e wff $= $.
